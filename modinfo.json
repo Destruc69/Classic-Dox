@@ -1,0 +1,20 @@
+{
+  "context": "server",
+  "identifier": "com.pa.classicdox",
+  "display_name": "Classic Dox",
+  "description": "Do you miss the days when Dox could attack both air and land? If so, this mod is for you.",
+  "author": "Destruc",
+  "version": "1.0.0",
+  "build": "116982",
+  "date": "2024-12-31",
+  "signature": "not yet implemented",
+  "forum": "https://github.com/Destruc69/Classic-Dox/discussions/",
+  "category": [
+    "titans",
+    "units"
+  ],
+  "icon": "",
+  "priority": 100,
+  "titansOnly": true,
+  "github": "https://github.com/Destruc69/Classic-Dox"
+}
