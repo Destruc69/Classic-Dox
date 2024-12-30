@@ -1,0 +1,5 @@
+build_metal_cost: 45 -> 50
+max_health: 40 -> 35
+walk_speed: 20 -> 15
+
+For now, I hope to find the original values from old dox
