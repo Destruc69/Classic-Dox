@@ -1,4 +1,4 @@
-build_metal_cost: 45 -> 60
-walk_speed: 20 -> 15
+build_metal_cost: 45 -> 80
+walk_speed: 20 -> 10
 
 For now, I hope to find the original values from old dox
